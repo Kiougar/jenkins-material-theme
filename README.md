@@ -1,3 +1,8 @@
+## Changes from the original
+* Made primary color purple
+* Removed Jenkins image next to logo
+
+
 # jenkins-material-theme
 Beautify your Jenkins with the Material Design theme!
 
